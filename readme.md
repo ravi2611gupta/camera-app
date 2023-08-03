@@ -51,3 +51,7 @@ eas build --platform android
 ```shell 
 eas build --platform android --profile preview
 ```
+#### or
+```shell 
+eas build -p android --profile preview
+```
