@@ -55,3 +55,8 @@ eas build --platform android --profile preview
 ```shell 
 eas build -p android --profile preview
 ```
+
+- for publishing on expo
+```shell 
+expo publish
+```
