@@ -42,7 +42,7 @@ eas build:configure
 
 
 #### run these commands
-- for .abb file 
+- for .aab file 
 ```shell
 eas build --platform android 
 ```
